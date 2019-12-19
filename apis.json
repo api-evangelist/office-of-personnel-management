@@ -1,0 +1,46 @@
+{
+    "name": "Office of Personnel Management",
+    "description": "<p>The United States Office of Personnel Management (OPM) is an independent agency of the United States government that manages the civil service of the federal government.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/320px-US-OfficeOfPersonnelManagement-Seal.svg.png",
+    "tags": [
+        "api provider",
+        "data json",
+        "data provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/office-of-personnel-management\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Office of Personnel Management",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/320px-US-OfficeOfPersonnelManagement-Seal.svg.png",
+            "humanURL": "http:\/\/www.opm.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/office-of-personnel-management-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.opm.gov\/developer"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.opm.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Office_of_Personnel_Management"
+        }
+    ]
+}
